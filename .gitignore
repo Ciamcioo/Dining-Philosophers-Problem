@@ -1,0 +1,7 @@
+# Ignore the build directory
+
+/build
+
+# Ignore text files in the repository
+
+*.txt
