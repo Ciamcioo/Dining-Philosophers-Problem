@@ -9,6 +9,9 @@ initialize_ninja_compile:
 build_program:
 	 ninja  -C build 
 
+run: 
+	./build/dpp 5
+
 clean:
 	rm -rf build
 
